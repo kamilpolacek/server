@@ -4,8 +4,6 @@
 
 Cílem úlohy je vytvořit vícevláknový server pro TCP/IP komunikaci a implementovat komunikační protokol podle dané specifikace.
 
-<div class="noteimportant">Před začátkem implementace si prostudujte <span class="curid">[poznámky k odevzdání](https://edux.fit.cvut.cz/courses/BI-PSI/labs/task1#odevzdani "labs:task1")</span>! Ušetříte si budoucí komplikace.</div>
-
 </div>
 
 ## <a name="zadani" id="zadani">Zadání</a>
